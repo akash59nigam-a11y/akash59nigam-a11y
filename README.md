@@ -6,13 +6,13 @@
 
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=210&section=header&text=Akash%20Nigam&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Cloud%20%26%20AWS%20Enthusiast&descSize=22&descAlignY=60&descAlign=50" width="100%" alt="Akash Nigam - Aspiring AI/ML Engineer | Cloud & AWS Enthusiast"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=210&section=header&text=Akash%20Nigam&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI/ML%20Engineer%20|%20Cloud%20%26%20AWS%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Akash Nigam - Aspiring AI/ML Engineer | Cloud & AWS Enthusiast"/>
 </div>
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=720&lines=Hi+there!+I'm+Akash+Nigam;Aspiring+AI%2FML+Engineer;Python+%C2%B7+Pandas+%C2%B7+NumPy+%C2%B7+Scikit-learn;Cloud+%26+AWS+Enthusiast;BCA+%7C+Class+of+2027" alt="Typing animation" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=720&lines=Hi+there!+I'm+Akash+Nigam;Aspiring+AI/ML+Engineer;Python+|+Pandas+|+NumPy+|+Scikit-learn;Cloud+%26+AWS+Enthusiast;BCA+Class+of+2027" alt="Typing animation" />
   </a>
 </h1>
 
