@@ -1,178 +1,38 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C4CC&height=210&section=header&text=Akash%20Nigam&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Cloud%20%26%20AWS%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Akash Nigam profile banner"/>`{=html}
+name: GitHub Snake Game
 
-`<a href="https://readme-typing-svg.demolab.com">`{=html}
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Akash+Nigam;Exploring+Artificial+Intelligence+%26+ML;Building+Data+Science+Projects;Learning+AWS+%26+Cloud+Computing" alt="Animated introduction"/>`{=html}
-`</a>`{=html}
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
-```{=html}
-<p>
-```
-`<img src="https://komarev.com/ghpvc/?username=akash59nigam-a11y&style=for-the-badge&color=6C63FF" alt="Profile views"/>`{=html}
-`<a href="https://github.com/akash59nigam-a11y?tab=followers">`{=html}`<img src="https://img.shields.io/github/followers/akash59nigam-a11y?style=for-the-badge&color=00C4CC" alt="GitHub followers"/>`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
-:::
+permissions:
+  contents: write
 
-------------------------------------------------------------------------
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-## 👨‍💻 About Me
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#0891b2&color_dots=#ebedf0,#ddd6fe,#a78bfa,#8b5cf6,#6d28d9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#06b6d4&color_dots=#161b22,#4c1d95,#6d28d9,#8b5cf6,#c4b5fd
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
--   🎓 **BCA student** at KCNIT College of Education, affiliated with
-    Bundelkhand University (2024--2027).
--   🤖 My primary focus is **Artificial Intelligence, Machine Learning,
-    and Data Science**.
--   ☁️ I'm also learning **AWS and Cloud Computing** as a secondary
-    focus.
--   📊 I enjoy turning data into useful insights through analysis,
-    dashboards, and practical projects.
--   🌱 Currently developing my skills in Python, data analysis, machine
-    learning, and cloud fundamentals.
--   🎯 Goal: keep building practical projects and grow toward an AI/ML
-    engineering career.
-
-## 🧰 Technology Stack
-
-### AI, Machine Learning & Data
-
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>`{=html}
-`<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>`{=html}
-`<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>`{=html}
-`<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>`{=html}
-`<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>`{=html}
-```{=html}
-</p>
-```
-### Cloud & Tools
-
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>`{=html}
-`<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>`{=html}
-`<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>`{=html}
-`<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
-`<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>`{=html}
-```{=html}
-</p>
-```
-## 🚀 Featured Projects
-
-> Project links below use a confirmed repository where available. For
-> projects whose exact public repository URL could not be verified from
-> the supplied information, the link opens my repositories list rather
-> than guessing a URL.
-
-### 1. Factory Reallocation & Shipping Optimization
-
-Factory reallocation and shipping recommendation project using analysis
-and dashboarding to explore lead-time and profit impact.
-
--   **Tools:** Excel, Pivot Tables, dashboards; limited Python use
--   **Repository:** [Open
-    project](https://github.com/akash59nigam-a11y/Factory-Reallocation-Shipping-Optimization-Recommendation-System)
-
-### 2. HR Attrition Analysis
-
-An Excel dashboard project exploring HR attrition data and presenting
-findings through data summaries and visualizations.
-
--   **Tools:** Excel, data cleaning, Pivot Tables, dashboards
--   **Repository:** [Find repository in my GitHub
-    projects](https://github.com/akash59nigam-a11y?tab=repositories)
-    *(direct repository URL to be confirmed)*
-
-### 3. Palo Alto Promotion Gap Analysis
-
-A data analysis project examining promotion-gap patterns in a dataset.
-
--   **Tools:** Data analysis and visualization
--   **Repository:** [Find repository in my GitHub
-    projects](https://github.com/akash59nigam-a11y?tab=repositories)
-    *(direct repository URL to be confirmed)*
-
-### 4. Bank Marketing ML Classifier
-
-A machine-learning classification project related to bank marketing.
-
--   **Tools:** Python and machine learning *(confirm the exact stack in
-    the repository)*
--   **Repository:** [Find
-    `bank-marketing-ml-classifier`](https://github.com/akash59nigam-a11y?tab=repositories)
-    *(direct repository URL to be confirmed)*
-
-### 5. Interactive World Population Dashboard
-
-An interactive dashboard for exploring world population data.
-
--   **Tools:** Confirm from the project repository
--   **Repository:** [Find
-    `interactive-world-population-dashboard`](https://github.com/akash59nigam-a11y?tab=repositories)
-    *(direct repository URL to be confirmed)*
-
-[**Explore all repositories
-→**](https://github.com/akash59nigam-a11y?tab=repositories)
-
-## 💼 Internship & Learning Experience
-
-The following roles were provided for this profile draft. **Before
-publishing, confirm each title and status against your offer letter or
-certificate** and remove anything that was only an application.
-
--   **Unfield --- Data Analyst Intern:** data cleaning, preprocessing,
-    and reporting with Excel.
--   **AWS --- Cloud Computing Intern:** title/status supplied by profile
-    owner; confirm official program and certificate wording.
--   **FlyRank --- AI Back-End AI Engineering Intern:** title/status
-    supplied by profile owner; confirm official wording.
--   **SkillCraft --- Data Science Intern:** title/status supplied by
-    profile owner; confirm official wording.
-
-## 📚 Certifications & Activities
-
--   TCS iON Career Edge --- Interview & Job Readiness
--   College Ambassador --- two terms/occasions
--   Internship and AWS certificates *(add exact certificate names once
-    confirmed)*
-
-## 📊 GitHub Statistics
-
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=akash59nigam-a11y&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash59nigam-a11y&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>`{=html}
-:::
-
-::: {align="center"}
-`<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akash59nigam-a11y&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>`{=html}
-:::
-
-::: {align="center"}
-`<picture>`{=html}
-`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash59nigam-a11y/akash59nigam-a11y/output/github-snake-dark.svg"/>`{=html}
-`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash59nigam-a11y/akash59nigam-a11y/output/github-snake.svg"/>`{=html}
-`<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/akash59nigam-a11y/akash59nigam-a11y/output/github-snake.svg"/>`{=html}
-`</picture>`{=html}
-:::
-
-## 🤝 Connect With Me
-
-```{=html}
-<p>
-```
-`<a href="https://www.linkedin.com/in/akash-nigam-38b5a9385/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/akash59nigam-a11y">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-`<i>`{=html}Learning continuously • Building practically • Growing with
-technology`</i>`{=html}
-:::
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
