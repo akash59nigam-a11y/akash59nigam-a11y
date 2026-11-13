@@ -1,3 +1,4 @@
+<img src="./assets/banner-aurora.svg" alt="Akash Nigam" width="100%" />
 <!-- ============================================================
      Akash Nigam - GitHub profile README
      Repo name must be exactly: akash59nigam-a11y
