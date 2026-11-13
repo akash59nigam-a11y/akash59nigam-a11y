@@ -18,7 +18,7 @@
 
 <!-- FOCUS BADGES: AI = primary, Cloud = secondary -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Primary_Focus-AI_%2F_ML-8B5CF6?style=for-the-badge" alt="Primary focus: AI / ML" />
+  <img src="https://img.shields.io/badge/Primary_Focus-AI_%2F_ML-01796F?style=for-the-badge" alt="Primary focus: AI / ML" />
   <img src="https://img.shields.io/badge/Secondary-Cloud_%26_AWS-06B6D4?style=for-the-badge" alt="Secondary: Cloud and AWS" />
 </div>
 <br />
