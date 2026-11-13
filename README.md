@@ -8,7 +8,6 @@
 <p align="center">
   <img src="./assets/banner-code.svg" alt="Akash Nigam" width="100%" />
 </p>
-<p align="center"><b>Aspiring AI/ML Engineer | Cloud &amp; AWS Enthusiast</b></p>
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
