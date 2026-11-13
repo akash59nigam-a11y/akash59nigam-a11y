@@ -46,7 +46,7 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 -->
 
 **🏆 Highlights**
-- 🎓 **College Ambassador ×2** (incl. GeeksforGeeks Campus Mantri, KCNIT) <!-- VERIFY: name both programs -->
+- 🎓 **College Ambassador ×2** (incl. GeeksforGeeks Campus Mantri, IIT bombay ) <!-- VERIFY: name both programs -->
 - 🎯 **TCS iON Career Edge**
 - 📜 **Internship & AWS certificates**
 
