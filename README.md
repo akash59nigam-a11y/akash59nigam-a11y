@@ -1,4 +1,3 @@
-<img src="./assets/banner-aurora.svg" alt="Akash Nigam" width="100%" />
 <!-- ============================================================
      Akash Nigam - GitHub profile README
      Repo name must be exactly: akash59nigam-a11y
@@ -6,7 +5,9 @@
      ============================================================ -->
 
 <!-- HEADER -->
-<h1 align="center">Akash Nigam</h1>
+<p align="center">
+  <img src="./assets/banner-code.svg" alt="Akash Nigam" width="100%" />
+</p>
 <p align="center"><b>Aspiring AI/ML Engineer | Cloud &amp; AWS Enthusiast</b></p>
 
 <!-- TYPING ANIMATION -->
