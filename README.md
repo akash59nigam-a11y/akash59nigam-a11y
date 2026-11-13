@@ -11,7 +11,7 @@
 <!-- TYPING ANIMATION -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2c7a7b&center=true&vCenter=true&random=false&width=720&lines=Hi+there!+I'm+Akash+Nigam;Aspiring+AI/ML+Engineer;Python+|+Pandas+|+NumPy+|+Scikit-learn;Cloud+%26+AWS+Enthusiast;BCA+Class+of+2027" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2c7a7b&center=true&vCenter=true&random=false&width=720&lines=Hi+there!+I'm+Akash+Nigam;Aspiring+AI/ML+Engineer;Python+|+Pandas+|+NumPy+|+Scikit-learn;Cloud+%26+AWS+Enthusiast;" alt="Typing animation" />
   </a>
 </h1>
 
