@@ -53,7 +53,7 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 
 </td>
     <td width="40%" valign="top" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash59nigam-a11y&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Most used languages" />
+      <img width="100%" src="https://tenor.com/view/earth-planet-globe-environment-black-and-white-gif-5533046" />
     </td>
   </tr>
 </table>
