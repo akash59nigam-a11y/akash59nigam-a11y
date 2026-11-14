@@ -52,8 +52,8 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 - 📜 **Internship & AWS certificates**
 
 </td>
-    <td width="40%" valign="top" align="center">
-      <img width="100%" src="https://tenor.com/view/earth-planet-globe-environment-black-and-white-gif-5533046" />
+      <td width="40%" valign="middle" align="center">
+      <img width="85%" src="https://media1.tenor.com/m/KRIGLPCuG-4AAAAd/earth-planet.gif" alt="Rotating Earth" />
     </td>
   </tr>
 </table>
