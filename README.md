@@ -58,31 +58,51 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
   </tr>
 </table>
 
-<!-- TECH STACK -->
+
+<!-- TECHNOLOGY ARSENAL -->
 <h2 align="center">🔧 Technology Arsenal</h2>
 
-<img src="./assets/side-left.svg" align="left" width="22%" alt="Neural network animation" />
-<img src="./assets/side-right.svg" align="right" width="23%" alt="Tree animation" />
+<table width="100%" border="0">
+<tr>
 
-<div align="center">
-  <h3>🧠 AI / ML &amp; Data Science <sub>(primary)</sub></h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  </p>
-  <h3>☁️ Cloud <sub>(secondary)</sub></h3>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  </p>
-  <h3>💻 Languages &amp; Data Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  </p>
-</div>
+<!-- LEFT: NEURAL NETWORK -->
+<td width="20%" align="center" valign="middle">
+  <img src="./assets/side-left.svg"
+       width="150"
+       alt="Neural Network Animation"/>
+</td>
+
+<!-- CENTER: THEME SWITCHING SKILLS -->
+<td width="60%" align="center" valign="middle">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/skills-dark.svg"/>
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/skills-light.svg"/>
+
+    <img
+      src="./assets/skills-light.svg"
+      width="100%"
+      alt="AI ML Cloud and Data Tools"/>
+  </picture>
+
+</td>
+
+<!-- RIGHT: TREE ANIMATION -->
+<td width="20%" align="center" valign="middle">
+  <img src="./assets/side-right.svg"
+       width="150"
+       alt="Tree Animation"/>
+</td>
+
+</tr>
+</table>
+
+
 <br clear="all" />
 
 <!-- FEATURED PROJECTS -->
