@@ -72,7 +72,7 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 <td width="20%" align="center" valign="middle"><img src="./assets/side-right.svg" height="280" alt="Tree Animation"/></td>
 </tr>
 </table>
-<br clear="all"/>
+
 
 <!-- FEATURED PROJECTS -->
 <h2 align="center">📌 Featured Projects</h2>
