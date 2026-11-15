@@ -84,7 +84,6 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
   </p>
 </div>
 <br clear="all" />
-<br />
 
 <!-- FEATURED PROJECTS -->
 <h2 align="center">📌 Featured Projects</h2>
