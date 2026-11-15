@@ -73,6 +73,7 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 </tr>
 </table>
 <br clear="all"/>
+
 <!-- FEATURED PROJECTS -->
 <h2 align="center">📌 Featured Projects</h2>
 
