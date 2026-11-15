@@ -61,32 +61,14 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 
 
 
+
 <!-- TECHNOLOGY ARSENAL -->
 <h2 align="center">🔧 Technology Arsenal</h2>
 
-<!-- LEFT ANIMATION -->
-<img align="left"
-     src="./assets/side-left.svg"
-     height="360"
-     alt="Neural Network Animation"/>
+<p align="center">
+<img src="./assets/side-left.svg" height="360" align="middle" alt="Neural Network"/><img src="./assets/skills-dark.svg#gh-dark-mode-only" width="52%" align="middle" alt="Dark Technology Stack"/><img src="./assets/skills-light.svg#gh-light-mode-only" width="52%" align="middle" alt="Light Technology Stack"/><img src="./assets/side-right.svg" height="360" align="middle" alt="Tree Animation"/>
+</p>
 
-<!-- RIGHT ANIMATION -->
-<img align="right"
-     src="./assets/side-right.svg"
-     height="360"
-     alt="Tree Animation"/>
-
-<!-- CENTER: DARK MODE -->
-<img src="./assets/skills-dark.svg#gh-dark-mode-only"
-     width="48%"
-     alt="Dark Mode Technology Stack"/>
-
-<!-- CENTER: LIGHT MODE -->
-<img src="./assets/skills-light.svg#gh-light-mode-only"
-     width="48%"
-     alt="Light Mode Technology Stack"/>
-
-<br clear="both"/>
 
 
 <!-- FEATURED PROJECTS -->
