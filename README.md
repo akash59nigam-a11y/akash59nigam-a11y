@@ -72,25 +72,24 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
        alt="Neural Network Animation"/>
 </td>
 
-<!-- CENTER: THEME SWITCHING SKILLS -->
+
+<!-- CENTER TECHNOLOGY STACK -->
 <td width="60%" align="center" valign="middle">
 
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/skills-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="./assets/skills-dark.svg">
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./assets/skills-light.svg"/>
+    <source media="(prefers-color-scheme: light)"
+            srcset="./assets/skills-light.svg">
 
-    <img
-      src="./assets/skills-light.svg"
-      width="100%"
-      alt="AI ML Cloud and Data Tools"/>
+    <img src="./assets/skills-light.svg"
+         width="100%"
+         alt="AI ML Cloud and Data Tools">
   </picture>
 
 </td>
+
 
 <!-- RIGHT: TREE ANIMATION -->
 <td width="20%" align="center" valign="middle">
