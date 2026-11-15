@@ -64,12 +64,12 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 
 <table width="100%" border="0">
 <tr>
-<td width="20%" align="center" valign="middle"><img src="./assets/side-left.svg" height="260" alt="Neural Network Animation"/></td>
+<td width="20%" align="center" valign="middle"><img src="./assets/side-left.svg" height="280" alt="Neural Network Animation"/></td>
 <td width="60%" align="center" valign="middle">
 <img src="./assets/skills-dark.svg#gh-dark-mode-only" width="100%" alt="Technology Stack Dark Mode"/>
 <img src="./assets/skills-light.svg#gh-light-mode-only" width="100%" alt="Technology Stack Light Mode"/>
 </td>
-<td width="20%" align="center" valign="middle"><img src="./assets/side-right.svg" height="260" alt="Tree Animation"/></td>
+<td width="20%" align="center" valign="middle"><img src="./assets/side-right.svg" height="280" alt="Tree Animation"/></td>
 </tr>
 </table>
 
