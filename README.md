@@ -73,36 +73,23 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 </td>
 
 
-<!-- CENTER TECHNOLOGY STACK -->
+
+<!-- TECHNOLOGY ARSENAL -->
+<h2 align="center">🔧 Technology Arsenal</h2>
+
+<table width="100%" border="0">
+<tr>
+<td width="20%" align="center" valign="middle"><img src="./assets/side-left.svg" width="150" alt="Neural Network Animation"/></td>
 <td width="60%" align="center" valign="middle">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="./assets/skills-dark.svg">
-
-    <source media="(prefers-color-scheme: light)"
-            srcset="./assets/skills-light.svg">
-
-    <img src="./assets/skills-light.svg"
-         width="100%"
-         alt="AI ML Cloud and Data Tools">
-  </picture>
-
+<img src="./assets/skills-dark.svg#gh-dark-mode-only" width="100%" alt="Technology Stack Dark Mode"/>
+<img src="./assets/skills-light.svg#gh-light-mode-only" width="100%" alt="Technology Stack Light Mode"/>
 </td>
-
-
-<!-- RIGHT: TREE ANIMATION -->
-<td width="20%" align="center" valign="middle">
-  <img src="./assets/side-right.svg"
-       width="150"
-       alt="Tree Animation"/>
-</td>
-
+<td width="20%" align="center" valign="middle"><img src="./assets/side-right.svg" width="150" alt="Tree Animation"/></td>
 </tr>
 </table>
 
+<br clear="all"/>
 
-<br clear="all" />
 
 <!-- FEATURED PROJECTS -->
 <h2 align="center">📌 Featured Projects</h2>
