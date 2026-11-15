@@ -66,7 +66,7 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 <h2 align="center">🔧 Technology Arsenal</h2>
 
 <p align="center">
-<img src="./assets/side-left.svg" height="360" align="middle" alt="Neural Network"/><img src="./assets/skills-dark.svg#gh-dark-mode-only" width="55%" align="middle" alt="Dark Technology Stack"/><img src="./assets/skills-light.svg#gh-light-mode-only" width="55%" align="middle" alt="Light Technology Stack"/><img src="./assets/side-right.svg" height="360" align="middle" alt="Tree Animation"/>
+<img src="./assets/side-left.svg" height="360" align="middle" alt="Neural Network"/><img src="./assets/skills-dark.svg#gh-dark-mode-only" width="57%" align="middle" alt="Dark Technology Stack"/><img src="./assets/skills-light.svg#gh-light-mode-only" width="57%" align="middle" alt="Light Technology Stack"/><img src="./assets/side-right.svg" height="360" align="middle" alt="Tree Animation"/>
 </p>
 
 
