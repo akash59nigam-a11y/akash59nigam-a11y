@@ -59,8 +59,6 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 </table>
 
 
-
-
 <!-- TECHNOLOGY ARSENAL -->
 <h2 align="center">🔧 Technology Arsenal</h2>
 
