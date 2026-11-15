@@ -62,10 +62,9 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 <h2 align="center">🔧 Technology Arsenal</h2>
 
 <img src="./assets/side-left.svg" align="left" width="18%" alt="Neural network animation" />
+<img src="./assets/side-right.svg" align="right" width="18%" alt="Tree animation" />
 
 <div align="center">
-</div>
-<br clear="all" />
   <h3>🧠 AI / ML &amp; Data Science <sub>(primary)</sub></h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -73,20 +72,18 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   </p>
-
   <h3>☁️ Cloud <sub>(secondary)</sub></h3>
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   </p>
-
   <h3>💻 Languages &amp; Data Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   </p>
-
 </div>
+<br clear="all" />
 <br />
 
 <!-- FEATURED PROJECTS -->
