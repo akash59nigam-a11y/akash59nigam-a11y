@@ -59,19 +59,6 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 </table>
 
 
-<!-- TECHNOLOGY ARSENAL -->
-<h2 align="center">🔧 Technology Arsenal</h2>
-
-<table width="100%" border="0">
-<tr>
-
-<!-- LEFT: NEURAL NETWORK -->
-<td width="20%" align="center" valign="middle">
-  <img src="./assets/side-left.svg"
-       width="150"
-       alt="Neural Network Animation"/>
-</td>
-
 
 
 <!-- TECHNOLOGY ARSENAL -->
