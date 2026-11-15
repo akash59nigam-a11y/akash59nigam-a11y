@@ -62,7 +62,7 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 <h2 align="center">🔧 Technology Arsenal</h2>
 
 <img src="./assets/side-left.svg" align="left" width="22%" alt="Neural network animation" />
-<img src="./assets/side-right.svg" align="right" width="25%" alt="Tree animation" />
+<img src="./assets/side-right.svg" align="right" width="24%" alt="Tree animation" />
 
 <div align="center">
   <h3>🧠 AI / ML &amp; Data Science <sub>(primary)</sub></h3>
