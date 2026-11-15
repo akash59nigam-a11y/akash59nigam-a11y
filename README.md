@@ -60,8 +60,12 @@ VERIFY BEFORE UNCOMMENTING (SETUP.md section 6). Delete any line you cannot back
 
 <!-- TECH STACK -->
 <h2 align="center">🔧 Technology Arsenal</h2>
-<div align="center">
 
+<img src="./assets/side-left.svg" align="left" width="18%" alt="Neural network animation" />
+
+<div align="center">
+</div>
+<br clear="all" />
   <h3>🧠 AI / ML &amp; Data Science <sub>(primary)</sub></h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
